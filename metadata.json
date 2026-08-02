@@ -1,0 +1,6 @@
+{
+  "name": "AmerThryv",
+  "description": "Personal daily fitness, meal, custom recipe, and mass gainer tracker with progressive overload and AI Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
